@@ -11,9 +11,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Education:** Software Engineering Sophomore at a university in Sichuan, China  
-- 🏆 **Achievements:** National Inspirational Scholarship, 1st Prize in National College Students' Financial Literacy Competition, 3rd Prize in MathorCup Data Application Challenge  
-- 📜 **Certifications:** Java Engineer, Market Research Analyst  
+- 🎓 **Education:** Study at Chengdu Neusoft University, sophomore majoring in Software Engineering 
+- 🏆 **Achievements:** National Inspirational Scholarship, Excellent League Member,3rd Prize in MathorCup Data Application Challenge  
+- 📜 **Certifications:** Java Engineer, Market Research Analyst,National Computer Rank Examination Level 2 Certificate 
 - 🎯 **Current Focus:** AI Agent development, local LLM deployment, full-stack web development  
 - 🌱 **Learning:** Advanced data structures, machine learning algorithms, modern frontend frameworks  
 - 💡 **Interests:** Digital preservation of intangible cultural heritage, sustainable development, data visualization  
@@ -39,7 +39,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Expertise Areas**  
-`Data Structures & Algorithms` `Full-Stack Development` `Data Visualization` `AI Prompt Engineering` `Local LLM Deployment`
+`Data Structures & Algorithms` `Data Visualization` `AI Prompt Engineering` `Local LLM Deployment`
 
 ---
 
@@ -83,11 +83,12 @@
 
 | Year | Award | Level |
 |------|-------|-------|
+| 2026 | Excellent League Member | University |
 | 2025 | National Inspirational Scholarship | National |
 | 2025 | 1st Prize, National College Students' Financial Literacy Competition | National |
 | 2025 | 3rd Prize, MathorCup Data Application Challenge | National |
-| 2024 | Outstanding Student Leader | University |
-| 2024 | Merit Student | University |
+| 2025 | Outstanding Student Leader | University |
+
 
 ---
 
