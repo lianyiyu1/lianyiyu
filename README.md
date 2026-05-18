@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Yulianyi 👋</h1>
 <h3 align="center">A passionate software engineering sophomore from China, crafting meaningful digital products and exploring the frontiers of AI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yulianyi&label=Profile%20views&color=0e75b6&style=flat" alt="yulianyi" />
-  <a href="mailto:yulianyi@example.com"><img src="https://img.shields.io/badge/Email-yulianyi%40example.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://github.com/yulianyi"><img src="https://img.shields.io/badge/GitHub-@yulianyi-181717?style=flat&logo=github"></a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
